@@ -1,0 +1,44 @@
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+					WELCOME TO PAIRS
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	
+	Pairs is a card game that utilizes a triangular deck of cards which contains 
+	1-1, 2-2s, all the way to 10-10s - making up 55 cards in total. Pairs can be 
+	played by up to 8 players. 
+
+	The target score for each game depends on the number of players following the 
+	formula (60 ÷ number of player) + 1. The target score for 7 and 8 players are
+	kept at 11. Below are the target scores for each number of players.
+		Players:	2	3	4	5	6	7	8
+		Score:		31	21	17	13	11	11	11
+
+	The game starts by dealing each player a card from a shuffled deck. Five cards 
+	are set aside (burned) face down from the deck to form the discard pile. The 
+	player who is dealt the lowest number will take the first turn. If two or more 
+	players are tied, deal a new card to each player to break the tie. If a player 
+	is dealt the same number (i.e., receives a pair), the player should discard it 
+	and deal another card.
+
+	On each player's turn, they can choose to either hit or fold. 
+
+	~  If a player chooses to hit, they will draw a card from the deck. If the 
+	   player draws a card with the same number they already have, they will 
+	   score points equal to the number they matched. Otherwise, the turn goes 
+	   to the next player.
+	~  On the other hand, if a player chooses to fold, they will take the lowest 
+	   card on the table and score points equal to the number they took.
+
+	The end of a round is signified when a player either draws a pair or chooses 
+	to fold. When a round ends, the players discard all cards except for the cards 
+	used to track points. Then deal another round of cards to each player and
+	resume the game, with the player who deals the lowest number going first.
+	
+	If the deck runs out of cards, shuffle the discard pile, and use that as the 
+	new draw deck. Each time the cards are reshuffled, burn five cards to the 
+	discard pile.
+
+	The goal of Pairs is to keep your scores low as to not reach the target score. 
+	The first player who reaches the target score loses the game.
+	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+	Are you ready to play?
